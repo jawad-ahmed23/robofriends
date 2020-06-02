@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-redux": "^7.2.0",
     "react-scripts": "1.0.17",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
     "tachyons": "^4.9.0"
   },
   "scripts": {
@@ -13,5 +17,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "Tutorial for udemy course - React\r To run the project:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadahmed23/robofriends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadahmed23/robofriends/issues"
+  },
+  "homepage": "https://github.com/jawadahmed23/robofriends#readme"
 }
